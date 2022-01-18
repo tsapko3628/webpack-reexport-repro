@@ -1,0 +1,18 @@
+{
+  "name": "webpack-reexport-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:tsapko3628/webpack-reexport-repro.git",
+  "author": "Andrew Tsapko <atsapko@icloud.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/glob": "7.2.0",
+    "@types/node": "16.11.15",
+    "@types/webpack": "5.28.0",
+    "glob": "7.2.0",
+    "ts-loader": "9.2.6",
+    "tslib": "2.3.1",
+    "typescript": "4.5.4",
+    "webpack": "5.66.0"
+  }
+}
