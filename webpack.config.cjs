@@ -59,6 +59,7 @@ module.exports = {
 		outputModule: true,
 	},
 	optimization: {
+		concatenateModules: false,
 		minimize: false,
 		sideEffects: false,
 	},
